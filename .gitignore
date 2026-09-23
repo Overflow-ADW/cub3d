@@ -1,0 +1,5 @@
+obj/
+*.o
+*.a
+cub3D
+.DS_Store
